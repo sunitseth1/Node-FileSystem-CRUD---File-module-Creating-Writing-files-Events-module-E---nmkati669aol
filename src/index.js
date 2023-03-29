@@ -1,23 +1,26 @@
 const fs = require('fs/promises')
 
 const myFileWriter = async (fileName, fileContent) => {
-	// write code here
+	console.log(myFileWriter);
 	// dont chnage function name
 }
 
 const myFileReader = async (fileName) => {
-	// write code here
+	console.log(myFileReader);
+	
 	// dont chnage function name
 }
 
 
 const myFileUpdater = async (fileName, fileContent) => {
-	// write code here
+	console.log(myFileUpdater);
+	
 	// dont chnage function name
 }
 
 const myFileDeleter = async (fileName) => {
-	// write code here
+	console.log(myFileDeleter);
+	
 	// dont chnage function name
 }
 
