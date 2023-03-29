@@ -13,7 +13,7 @@ const myFileReader = async (fileName) => {
 
 
 const myFileUpdater = async (fileName, fileContent) => {
-	console.log(myFileUpdater);
+	console.log('myFileUpdater')
 	
 	// dont chnage function name
 }
