@@ -6,7 +6,7 @@ const myFileWriter = async (fileName, fileContent) => {
 }
 
 const myFileReader = async (fileName) => {
-	console.log(myFileReader);
+	console.log(myFileReader.toString());
 	
 	// dont chnage function name
 }
