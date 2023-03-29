@@ -1,8 +1,11 @@
 const fs = require('fs/promises')
 
 const myFileWriter = async (fileName, fileContent) => {
-	console.log(myFileWriter);
-	// dont chnage function name
+	myFileWriter.write("Hi, JournalDEV Users. ");
+	myFileWriter.write("Thank You.");
+	myFileWriter.end();
+
+}
 }
 
 const myFileReader = async (fileName) => {
