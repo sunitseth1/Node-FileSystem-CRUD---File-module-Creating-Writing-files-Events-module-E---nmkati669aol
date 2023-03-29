@@ -1,8 +1,8 @@
 const fs = require('fs/promises')
 
 const myFileWriter = async (fileName, fileContent) => {
-	myFileWriter.write("Hi, JournalDEV Users. ");
-	myFileWriter.write("Thank You.");
+	myFileWriter.write("Hi, fileName Users. ");
+// 	myFileWriter.write("Thank You.");
 	myFileWriter.end();
 
 }
